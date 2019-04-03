@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\SRP</OriginalElement>
+  <nodes>
+    <node x="273.0" y="0.0">\GoodEmployee</node>
+    <node x="0.0" y="191.0">\HRApartment</node>
+    <node x="0.0" y="289.0">\FinancialApartment</node>
+    <node x="0.0" y="0.0">\BadEmployee</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="285.0" y="123.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constants</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

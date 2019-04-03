@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>PHP</ID>
+  <OriginalElement>\TextCourse</OriginalElement>
+  <nodes>
+    <node x="123.5" y="0.0">\GoodCourse</node>
+    <node x="0.0" y="149.0">\VideoCourse</node>
+    <node x="141.0" y="149.0">\TextCourse</node>
+    <node x="0.0" y="247.0">\BadCourse</node>
+    <node x="276.0" y="149.0">\AudioCourse</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="\VideoCourse" target="\GoodCourse">
+      <point x="0.0" y="-26.5" />
+      <point x="60.5" y="124.0" />
+      <point x="148.5" y="124.0" />
+      <point x="-50.0" y="49.5" />
+    </edge>
+    <edge source="\TextCourse" target="\GoodCourse">
+      <point x="0.0" y="-26.5" />
+      <point x="0.0" y="49.5" />
+    </edge>
+    <edge source="\AudioCourse" target="\GoodCourse">
+      <point x="0.0" y="-26.5" />
+      <point x="335.0" y="124.0" />
+      <point x="248.5" y="124.0" />
+      <point x="50.0" y="49.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="197.0" y="219.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constants</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
