@@ -1,6 +1,6 @@
 OOD learning notes (php demo)
 ===
-[Description](./README.md) | [中文说明](./README-zh.md)
+Description | [中文说明](./README-zh.md)
 
 6 principles
 ---
