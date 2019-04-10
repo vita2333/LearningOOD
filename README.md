@@ -1,26 +1,27 @@
-面向对象设计学习笔记(php demo)
+OOD learning notes (php demo)
 ===
+[Description](./README.md) | [中文说明](./README-zh.md)
 
-六大设计原则
+6 principles
 ---
 
-| 缩写      |      英文名称      |  中文名称 |
-|----------|:-------------:|------:|
-| SRP | Single Responsibility Principle| 单一职责原则 |
-| OCP | Open Close Principle| 开闭原则 |
-| LSP | Liskov Substitution Principle| 里氏替换原则 |
-| LoD | Law of Demeter （ Least Knowledge Principle）| 迪米特法则（最少知道原则） |
-| ISP | Interface Segregation Principle| 接口分离原则 |
-| DIP | Dependency Inversion Principle| 依赖倒置原则 |
+| abbreviation      |      name      |   
+|----------|------:|
+| SRP | Single Responsibility Principle|
+| OCP | Open Close Principle| 
+| LSP | Liskov Substitution Principle| 
+| LoD | Law of Demeter （ Least Knowledge Principle）| 
+| ISP | Interface Segregation Principle|
+| DIP | Dependency Inversion Principle| 
 
-示例
+example
 ---
-包含两部分:
-- 1.面向对象设计原则定义
-- 2.根据实际需求写的例子, BadXXX 代表不好的实现, GoodXXX代表较好的实现
+including two parts:
+- 1.the definition of each principle 
+- 2.example for the actual situation , BadXXX is the bad code , GoodXXX is the good code ( better than the former, not the best ).
 
 
-参考
+reference
 ---
 - [面向对象设计的六大设计原则（附 Demo & UML类图）
 ](https://juejin.im/post/5b9526c1e51d450e69731dc2)
